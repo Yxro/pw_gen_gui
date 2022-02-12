@@ -67,7 +67,7 @@ result_pw = Entry(window,
 
 result_pw.place(x=250, y= 120)
 
-pw_len = entry_lenght.getint(+0)
+pw_len = entry_lenght.getint(0)
 
 
 
